@@ -1,8 +1,8 @@
-#### 微信小程序 Remix Icon 组件
-
-# Remix Icon For Weapp
+# 微信小程序 Remix Icon 组件
 
 Remix Icon For Wechart miniProgram Components
+
+
 
 
 
@@ -42,7 +42,7 @@ Remix Icon 是一套面向设计师和开发者的开源图标库。我们在设
 
 ```
 "usingComponents": {
-	"remix-icon": "/components/remixicon v2.5.0/index",
+		"remix-icon": "/components/remixicon v2.5.0/index",
 }
 ```
 
@@ -68,7 +68,7 @@ Remix Icon 是一套面向设计师和开发者的开源图标库。我们在设
 /* wxml */
 
 <view class="avatar">
-	<remix-icon name="ri-home-line" />
+		<remix-icon name="ri-home-line" />
 </view>
 ```
 
@@ -76,6 +76,6 @@ Remix Icon 是一套面向设计师和开发者的开源图标库。我们在设
 /* wxss */
 
 .avatar .remix {
-	color: red;
+		color: red;
 }
 ```
