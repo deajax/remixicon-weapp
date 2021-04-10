@@ -1,6 +1,6 @@
 {
   "name": "remixicon-weapp",
-  "version": "2.0.2",
+  "version": "1.0.2",
   "description": "Remix Icon 微信小程序组件",
   "main": "index.js",
   "scripts": {
