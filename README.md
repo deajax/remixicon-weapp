@@ -81,5 +81,5 @@ Remix Icon 是一套面向设计师和开发者的开源图标库。我们在设
 ## 或者
 **直接在app.wxss中引入：**
 ```
-@import 'https://cdn.jsdelivr.net/gh/deajax/remixicon-weapp/dist/remixicon.wxss';
+@import 'https://cdn.jsdelivr.net/npm/remixicon-weapp@2.0.1/dist/remixicon.wxss';
 ```
