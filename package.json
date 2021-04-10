@@ -11,7 +11,7 @@
     "url": "git+https://github.com/deajax/remixicon-weapp.git"
   },
   "keywords": [
-    "remixicon"
+    "remix", "remixicon", "miniprogram", "weapp"
   ],
   "author": "Deajax",
   "license": "ISC",
