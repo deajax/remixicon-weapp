@@ -31,8 +31,19 @@ Remix Icon 是一套面向设计师和开发者的开源图标库。我们在设
 &nbsp;
 
 ## 使用说明
+**直接在app.wxss中引入：**
+```
+@import 'https://cdn.jsdelivr.net/npm/remixicon-weapp@2.0.1/dist/remixicon.wxss';
+```
+**然后在wxml文件里引用：**
+```
+<view class="ri-remixicon-line"></view>
+```
 
-**在微信小程序中使用Remix Icon图标：**
+&nbsp;
+
+## 或者
+**在微信小程序中使用RemixIcon组件：**
 
 1、下载components文件夹下的所有内容放到小程序根目录下。
 
@@ -76,14 +87,4 @@ Remix Icon 是一套面向设计师和开发者的开源图标库。我们在设
 .avatar .remix {
     color: red;
 }
-```
-
-## 或者
-**直接在app.wxss中引入：**
-```
-@import 'https://cdn.jsdelivr.net/npm/remixicon-weapp@2.0.1/dist/remixicon.wxss';
-```
-**然后在wxml文件里引用：**
-```
-<view class="ri-remixicon-line"></view>
 ```
