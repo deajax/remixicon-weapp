@@ -32,8 +32,9 @@ Remix Icon 是一套面向设计师和开发者的开源图标库。我们在设
 
 ## 使用说明
 **直接在app.wxss中引入：**
+
 ```
-@import 'https://cdn.jsdelivr.net/npm/remixicon-weapp@2.0.2/dist/remixicon.wxss';
+@import 'https://cdn.jsdelivr.net/npm/remixicon-weapp@1.0.2/dist/remixicon.wxss';
 ```
 **然后在wxml文件里引用：**
 ```
