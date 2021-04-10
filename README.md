@@ -39,6 +39,7 @@ Remix Icon 是一套面向设计师和开发者的开源图标库。我们在设
 ```
 <view class="ri-remixicon-line"></view>
 ```
+> 在[remixicon.com](https://remixicon.com/)点击您想要的图标, 在打开的图标窗口中复制替换class name。
 
 &nbsp;
 
