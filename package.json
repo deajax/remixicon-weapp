@@ -1,0 +1,25 @@
+{
+  "name": "remixicon-weapp",
+  "version": "2.5.0",
+  "description": "微信小程序RemixIcon组件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deajax/remixicon-weapp.git"
+  },
+  "keywords": [
+    "icon",
+    "remixicon",
+    "weapp",
+    "miniprogram"
+  ],
+  "author": "deajax",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deajax/remixicon-weapp/issues"
+  },
+  "homepage": "https://github.com/deajax/remixicon-weapp#readme"
+}
