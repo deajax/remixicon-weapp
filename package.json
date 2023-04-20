@@ -1,13 +1,14 @@
 {
   "name": "remixicon-weapp",
   "version": "3.2.0",
+  "author": "Jimmy Cheung <jimmy@remixdesign.cn>",
   "description": "Remix Icon for weapp",
   "homepage": "https://remixicon.com",
   "keywords": [
     "remixicon", "remix", "icon", "icon library", "icon pack"
   ],
   "files": [
-    "fonts/",
+    "miniprogram_dist/",
     "License",
     "package.json",
     "README.md"
