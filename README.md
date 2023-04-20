@@ -11,7 +11,7 @@
 使用小程序开发工具的终端输入
 
 ```
-npm i remixicon-weapp`
+npm i remixicon-weapp
 ```
 
 
